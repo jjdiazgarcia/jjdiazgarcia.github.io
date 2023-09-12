@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flash flatcar to computer using USB stick"
-date:   2023-09-12 18:00:00 +0200
+date:   2023-09-12 17:00:00 +0200
 categories: flatcar nuc infrastructure boot
 ---
 
